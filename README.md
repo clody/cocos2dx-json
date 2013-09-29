@@ -15,6 +15,11 @@ Demo
 ===========
 There is a test project in test folder, it supports iOS and android. If you want other platform, do it yourself.
 
+NOTE
+===========
+In cocos2dx-common, some basic features are not implemented for Windows. If you are a Windows guy, do it yourself 
+and good luck.
+
 How to use
 ===========
 For iOS, just drag cocos2dx-json project into your project. For Android, just import cocos2dx-json module. 
